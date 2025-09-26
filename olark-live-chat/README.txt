@@ -1,13 +1,13 @@
-=== WordPress Live Chat Plugin - Olark ===
+=== Olark Live Chat ===
 Contributors: olarkplatform, wodieskodie
 Donate link: https://www.olark.com
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 License: GPLv2 or later
 Requires PHP: 4.3
 Requires at least: 3.1
-Stable tag: trunk
-Tags: live chat, chat plugin, chatbox, chat box, live chat plugin, wordpress live chat, wordpress chat, accessible live chat, accessible chatbot
-Tested up to: 6.0
+Stable tag: 1.0.10
+Tags: live chat, chatbox, accessible live chat, accessible chatbot, customer support
+Tested up to: 6.8
 
 Live chat for WordPress and WooCommerce. Add Olark live chat to your WordPress and make your business human.
 
@@ -409,12 +409,16 @@ The following people have contributed to this plugin:
 
 == Upgrade Notice ==
 
-= 1.0.9 =
-Behing the scenes changes were made, please upgrade to ensure you and your
-customers are always receiving the best Olark experience possible
+= 1.0.10 =
+Version mismatch fix and improved plugin compatibility. Please upgrade to ensure
+you and your customers are always receiving the best Olark experience possible
 
 
 == Changelog ==
+
+= 1.0.10 =
+Fixed version mismatch between plugin header and README stable tag
+Improved plugin compatibility and WordPress standards compliance
 
 = 1.0.9 =
 Improved documentation; behind the scenes changes to improve stability
